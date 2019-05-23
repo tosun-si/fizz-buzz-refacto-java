@@ -1,0 +1,15 @@
+# Eclipse
+.classpath
+.settings
+
+/.project
+*/.classpath
+*/.metadata
+*/org.eclipse.core.resources.prefs
+*/.project
+*/.settings
+target
+*/target/
+*/.idea/
+**/.idea/
+*.iml
