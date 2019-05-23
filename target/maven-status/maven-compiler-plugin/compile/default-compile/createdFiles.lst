@@ -1,0 +1,4 @@
+org\tosunsi\fizzbuzz\refacto\FizzBuzzText.class
+org\tosunsi\fizzbuzz\refacto\FizzBuzzRefacto.class
+org\tosunsi\fizzbuzz\refacto\FizzBuzzTextFactory.class
+org\tosunsi\fizzbuzz\legacy\FizzBuzzLegacy.class
